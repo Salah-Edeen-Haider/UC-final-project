@@ -1,14 +1,16 @@
-> Fill out project information in English ⬇️
-### Student Name
-Salah Edeenh Haider
+# recycle_it
 
-### Project Name
-Recycle It
+A new Flutter project.
 
-# Idea
-The purpose of this application is to reduce plastic pollution by providing people with better and less harmful environmental options, as well as by gathering plastic garbage for recycling to lessen environmental harm.
-Problem and solutions if found 
+## Getting Started
 
-# Future Work 
-Enhance my application
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
