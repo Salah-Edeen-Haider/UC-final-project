@@ -1,34 +1,14 @@
-
-ملاحظة: يجب تعبئة هذا الملف بمعلومات المشروع، يمكنك اختيار اللغة. تأكد من مسح اللغة الأخرى والتعليقات الجانبية 
-> ⬇️ تعبئة معلومات المشروع بالعربية  
-
-<div dir="rtl">
-  
-### اسم الطالب
-
-
-### اسم المشروع
-
-
-# شرح الفكرة
-المشكلة والحلول المطروحة إن وجدت
-
-
-# الأعمال المستقبلية
-
-
-</div>
-
 > Fill out project information in English ⬇️
 ### Student Name
-
+Salah Edeenh Haider
 
 ### Project Name
+Recycle It
 
 # Idea
+The purpose of this application is to reduce plastic pollution by providing people with better and less harmful environmental options, as well as by gathering plastic garbage for recycling to lessen environmental harm.
 Problem and solutions if found 
 
-
 # Future Work 
-
+Enhance my application
 
